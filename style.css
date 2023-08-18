@@ -336,6 +336,7 @@ font-family: 'Ubuntu', sans-serif;
     color: #fff;
     position: relative;
     z-index: 2;
+      font-family: 'Poppins', sans-serif;
   }
   .hero .skills .skills-progress {
     width: 100%;
