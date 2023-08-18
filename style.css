@@ -913,6 +913,9 @@ font-family: 'Ubuntu', sans-serif;
     .portfolio .items {
       width: 100%;
     }
+      .d-sm-none{
+          display:none;
+      }
   }
   @media screen and (max-width: 991px) {
     .navbar-default .navbar-nav > li {
